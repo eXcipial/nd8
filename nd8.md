@@ -1,8 +1,8 @@
 <center>
 
-# ND8</center>
+# ND8
 
-> Belekas
+> # Belekas </center>
 >```
 > Belekas Belekas Belekas Belekas
 > Belekas Belekas Belekas Belekas
@@ -18,3 +18,10 @@
 > Belekas Belekas Belekas Belekas
 > Belekas Belekas Belekas Belekas
 >```
+
+> `labas` 
+
+> `labas`
+
+> ~~labas~~
+
